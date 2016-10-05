@@ -1,10 +1,10 @@
-python dictionary & file lab
+#python dictionary & file lab
 
 1. run command "pip install -r requirements.txt"
 
 2. run command "python3 generate_city_profie.py"
 
-dictionary & file lab question
+#dictionary & file lab question
 
 1. count Jessica in seoul and busan and make answer file.
 
